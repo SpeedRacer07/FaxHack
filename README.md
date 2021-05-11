@@ -1,6 +1,6 @@
 ## Hola, I'm [FaxHack!](faxhack.tk) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sike&label=Views&color=blue&style=plastic" alt="FaxHack" /> </p>
 
 <a href="https://twitter.com/">
   <img align="left" alt="sike" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -29,19 +29,19 @@
 
 
 
-- 🔭 I’m currently working on [ZuttPal AIO](https://sike.com/).
+- 🔭 I’m currently working on [ZuttPal AIO](https://discord.gg/FMzbCNTcWf/).
 - 🌱 I’m currently learning more about C# and Java.
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCShF_EaNdqTPAbrOMCrgKWg).
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/channel/UCShF_EaNdqTPAbrOMCrgKWg/).
 - 🤔 I’m looking for help with Java.
 - 💬 Ask me about Minecraft or any tech related stuff.
-- 📫 How to reach me: [Twitter - @sike](https://twitter.com) , [Youtube - @FaxHack 2b2t](https://www.youtube.com/channel/UCShF_EaNdqTPAbrOMCrgKWg)
+- 📫 How to reach me: [Twitter - @sike](https://twitter.com) , [Youtube - @FaxHack 2b2t](https://www.youtube.com/channel/UCShF_EaNdqTPAbrOMCrgKWg/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
-[![Twitter: 1](https://img.shields.io/twitter/follow/sike?style=social)](https://twitter.com/sike)
-[![Linkedin: sike](https://img.shields.io/badge/-sike-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com)
-[![GitHub Faxhack](https://img.shields.io/github/followers/FaxHack?label=follow&style=social)](https://github.com/FaxHack)
-[![website](https://img.shields.io/badge/SOON!!!!-2648ff?style=flat-square&logo=google-chrome)](https://Soon.tk/)
+[![Twitter: 1](https://img.shields.io/twitter/follow/sike?style=social)](https://twitter.com/)
+[![Linkedin: sike](https://img.shields.io/badge/-sike-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
+[![GitHub Faxhack](https://img.shields.io/github/followers/FaxHack?label=follow&style=social)](https://github.com/FaxHack/)
+[![website](https://img.shields.io/badge/SOON!!!!-2648ff?style=flat-square&logo=google-chrome)](google.com/)
 
 
 **Languages and Tools:**  
